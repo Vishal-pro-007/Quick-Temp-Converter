@@ -4,3 +4,4 @@ This simple python code asks and converts Celsius to Fahrenheit and vice versa u
 ♨️Choose the approprate temperature you want to convert to according to your convienince
 wait for less than a second until the required solution pops up
 🔢User friendly
+thanks for using 
